@@ -1,7 +1,7 @@
 name: image_dimension
-description: A new Flutter package project.
+description: To be able to show networkimage size and ratio
 version: 0.0.1
-homepage:
+homepage: https://github.com/jhonsnoww/flutter_network_image_info.git
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
